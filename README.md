@@ -44,4 +44,4 @@ This implies a Bayesian approach, the steps were as follows:
 
 
 ## Results
-There were three sets of predictions, (i.e. the 1-halo, 2-halo, and 3-halo cases). The bayesian model predictions for the 1-halo case were quite good, but the results for the two and three halo cases were poor. Some of the other competitors used optimizers to improve the predictions for the 
+There were three sets of predictions, (i.e. the 1-halo, 2-halo, and 3-halo cases). The bayesian model predictions for the 1-halo case were quite good, but the results for the two and three halo cases were poor. Some of the other competitors used optimizers to improve the predictions for these two cases by using the scoring metric as a cost function. This is something I need to research further.
